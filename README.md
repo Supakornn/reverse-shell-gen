@@ -14,6 +14,7 @@ A simple tool to generate reverse shell commands for various programming languag
 ```bash
 git clone https://github.com/yourusername/reverse-shell-gen
 cd reverse-shell-gen
+go mod tidy
 go build
 ./reverse-shell-gen
 ```

@@ -6,8 +6,6 @@ A simple tool to generate reverse shell commands for various programming languag
 
 - 🛠️ Multiple language support
 - 🔌 Easy-to-use command generation
-- 🔒 Base64 encoding option
-- 📝 Copy to clipboard functionality
 
 ## 🔧 Installation
 

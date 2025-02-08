@@ -25,6 +25,15 @@ List all available shell types:
 ./reverse-shell-gen list
 ```
 
+```bash
+Supported shell types:
+- bash
+- python
+- php
+- powershell
+- netcat
+```
+
 Generate a reverse shell command:
 
 ```bash
@@ -36,5 +45,3 @@ Example:
 ```bash
 ./reverse-shell-gen --ip 192.168.1.10 --port 4444 --type bash
 ```
-
-Available shell types can be viewed using the `list` command.
